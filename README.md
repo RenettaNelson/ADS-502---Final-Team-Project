@@ -20,18 +20,31 @@ track_name: The name of the track
 popularity: The measure of how popular the track is
 
 acousticness: An estimate of confidence measure between 0 and 1 of how acoustic a track is
-danceability: A measure of how much the track is fit for dancing using features such as beat strength, stability, and tempo. The higher the value, the more dancable the track is.
+
+danceability: A measure of how much the track is fit for dancing using features such as beat strength, stability, and tempo. The higher the value, the more dancable the track is
+
 duration_ms: The length of the track in milliseconds
-energy: The measure of how energetic the song is. The higher the value, the more energetic the track is.
+
+energy: The measure of how energetic the song is. The higher the value, the more energetic the track is
+
 instrumentalness: The measure of vocals in the track, one being mostly instrumental
+
 key: Identifies the group of pitches in the corresponding track
+
 liveness: The measurement of probability for the track being recorded live
+
 loudness: The measurement of how loud the track is
+
 mode: Identifies the scale of the key for the corresponding track
+
 speechiness: The measurement of lyrics/words in the track; Greater than 0.66 means majority of track has lyrics, between 0.66 and 0.33 means lyrics and instrumental was detected, and less than 0.33 means the track is only instrumental
+
 tempo: The measurement of speed the track is played; usually measured by beats per minute
+
 obtained_date: The date the song was downloaded in dataset
+
 valence: The measurement of the positivity in the track. High valence means more positive cheerful tracks, and low valence means more negative sad tracks
+
 music_genre: The genre the corresponding track belongs to
 
 
