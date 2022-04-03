@@ -11,10 +11,14 @@ Have you ever wanted to listen to a song but you couldn't remember the name? Or 
 
 The following are the definitions of the attributes included in the dataset:
 
-instance_id: Identification number to access the song records in the dataset \n
+instance_id: Identification number to access the song records in the dataset 
+
 artist_name: The name of the artist for the corresponding track
+
 track_name: The name of the track 
+
 popularity: The measure of how popular the track is
+
 acousticness: An estimate of confidence measure between 0 and 1 of how acoustic a track is
 danceability: A measure of how much the track is fit for dancing using features such as beat strength, stability, and tempo. The higher the value, the more dancable the track is.
 duration_ms: The length of the track in milliseconds
